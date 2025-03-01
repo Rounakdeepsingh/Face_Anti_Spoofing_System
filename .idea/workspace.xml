@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30e05581-42e9-45b9-b838-60b793b0fb88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TESTING_SCRIPTS/faceDetectorTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING_SCRIPTS/faceDetectorTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TESTING_SCRIPTS/textFileTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING_SCRIPTS/textFileTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TESTING_SCRIPTS/yoloTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING_SCRIPTS/yoloTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataCollection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myweb/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/splitData.py" beforeDir="false" afterPath="$PROJECT_DIR$/splitData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-    </list>
+    <list default="true" id="30e05581-42e9-45b9-b838-60b793b0fb88" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Rounak &lt;9596894410&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -138,12 +132,25 @@
       <workItem from="1740744654560" duration="4449000" />
       <workItem from="1740753964986" duration="13433000" />
       <workItem from="1740817268897" duration="2087000" />
-      <workItem from="1740825354682" duration="1725000" />
+      <workItem from="1740825354682" duration="2071000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1740827271429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740827271429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DjangoProject$dataCollection.coverage" NAME="dataCollection Coverage Results" MODIFIED="1740501010491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
