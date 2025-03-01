@@ -1,0 +1,6 @@
+train: C:\Users\lenovo\PycharmProjects\DjangoProject\Dataset\SplitData\train\images
+val: C:\Users\lenovo\PycharmProjects\DjangoProject\Dataset\SplitData\val\images
+test: C:\Users\lenovo\PycharmProjects\DjangoProject\Dataset\SplitData\test\images
+
+nc: 2
+names: ['fake', 'real']
